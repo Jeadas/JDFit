@@ -9,7 +9,7 @@ const ASSETS = [
   './js/timer.js',
   './js/ui.js',
   './js/app.js',
-  './manifest-v2.json'
+  './manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
